@@ -1,0 +1,6 @@
+Config { ...
+       , commands = [ Run StdinReader .... ]
+         ...
+       , template = " %StdinReader% ... "
+       }
+       
